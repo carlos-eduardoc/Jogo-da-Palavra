@@ -25,8 +25,9 @@ python
 ### 2️⃣ Executar o jogo
 
 ```bash
-python nome_do_arquivo.py
-🧠 Funcionamento
+python jogopalavra.py
+
+## 🧠 Funcionamento
 O jogo roda em loop infinito (while True)
 A cada iteração:
 O usuário digita uma letra
